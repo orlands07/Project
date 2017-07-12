@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="heart" unicode="&#xe800;" d="M500-79q-14 0-25 10l-348 336q-5 5-15 15t-31 37-38 54-30 67-13 77q0 123 71 192t196 70q34 0 70-12t67-33 54-38 42-38q20 20 42 38t54 38 67 33 70 12q125 0 196-70t71-192q0-123-128-251l-347-335q-10-10-25-10z" horiz-adv-x="1000" />
+
+<glyph glyph-name="menu" unicode="&#xf0c9;" d="M857 100v-71q0-15-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 25t25 11h785q15 0 26-11t10-25z m0 286v-72q0-14-10-25t-26-10h-785q-15 0-25 10t-11 25v72q0 14 11 25t25 10h785q15 0 26-10t10-25z m0 285v-71q0-14-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 26t25 10h785q15 0 26-10t10-26z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="facebook" unicode="&#xf300;" d="M124-150v469h-124v169h124v145c0 113 73 217 242 217 69 0 119-7 119-7l-4-157s-51 0-108 0c-60 0-70-28-70-74v-124h183l-8-169h-175v-469h-179" horiz-adv-x="486" />
+
+<glyph glyph-name="gplus" unicode="&#xf30f;" d="M48 572q0 58 25 102t56 65 69 34 56 15 26 2l230 0 0-4q0-22-78-36-28 0-38-6 40-20 54-56t14-96q0-102-68-158-38-38-38-54 0-18 50-64 104-90 104-178 0-140-116-194-68-34-150-34l-4 0-4 2q-2-2-4-2-24 0-54 5t-75 21-74 57-29 103q0 60 32 101t83 57 88 22 71 6l2 0q-16 22-24 47t-8 39l2 14-14 0q-64 0-110 30-74 44-74 160z m370-452q-4 52-43 84t-103 32l-16 0q-64-2-114-46-46-42-42-94t53-80 119-24q68 4 109 40t37 88z m-60 500q-30 108-122 108-12 0-20-2-40-12-58-62-16-50-2-106 14-52 47-85t71-33q12 0 18 2 42 12 63 65t3 113z m388-174l150 0 0-94-150 0 0-150-94 0 0 150-150 0 0 94 150 0 0 150 94 0 0-150z" horiz-adv-x="896" />
+</font>
+</defs>
+</svg>
